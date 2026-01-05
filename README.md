@@ -42,7 +42,7 @@
 <p>The dataset is comprised of Stathletes-tracked hockey event data, as well as player tracking data generated from broadcast video. The included events have been translated from Stathletes’ raw data to enhance accessibility and interpretability. The various event types include shots, plays, takeaways, puck recoveries, dump ins, dump outs, zone entries, faceoffs and penalties. Event definitions may slightly differ from other sources. For each event, expanded details are provided and the relevant skaters and teams involved are indicated when necessary.</p>
 
 <h2>Downloading the Data</h2>
-<p>https://github.com/bigdatacup/Big-Data-Cup-2025/releases/tag/Data</p>
+<p>https://github.com/bigdatacup/Big-Data-Cup-2026/releases/tag/Data</p>
 
 <p><b>Examples:</b></p>
 <p><b>Event Data:</b> 2024-10-13.Team.B.@.Team.A.-.Events.csv</p>
