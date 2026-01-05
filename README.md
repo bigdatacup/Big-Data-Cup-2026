@@ -45,9 +45,9 @@
 <p>https://github.com/bigdatacup/Big-Data-Cup-2026/releases/tag/Data</p>
 
 <p><b>Examples:</b></p>
-<p><b>Event Data:</b> 2024-10-13.Team.B.@.Team.A.-.Events.csv</p>
-<p><b>Tracking Data:</b> 2024-10-13.Team.B.@.Team.A.-.Tracking.csv</p>
-<p><b>Shifts Data:</b> 2024-10-13.Team.B.@.Team.A.-.Shifts.csv</p>
+<p><b>Event Data:</b> 2025-10-11.Team A.@.Team D Events.csv</p>
+<p><b>Shifts Data:</b> 2025-10-11 Team A @ Team D Shifts.csv</p>
+<p><b>Tracking Data (by period):</b> 2025-10-11 Team A @ Team D Tracking_P1.csv</p>
 <p><b>Camera Orientation Index:</b> camera_orientations.csv</p>
 
 <h2>Event Data</h2>
