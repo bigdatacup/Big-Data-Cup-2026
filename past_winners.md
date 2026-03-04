@@ -8,7 +8,7 @@
 <p>
 <strong>Project Video Presentation:</strong><br>
 <video width="640" controls>
-  <source src="videos/open_winner.mp4" type="video/mp4">
+  <source src="videos/2025_open_winner.mp4" type="video/mp4">
 </video>
 </p>
 
