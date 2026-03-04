@@ -7,7 +7,7 @@
 <p><strong>Project:</strong>The power play advantage: Data-driven insights for game-changing strategies </p>
 <p>
 <strong>Project Video Presentation:</strong><br>
-<video width="640" controls>
-  <source src="https://raw.githubusercontent.com/bigdatacup/Big-Data-Cup-2026/refs/heads/main/videos/open_winner.mp4" type="video/mp4">
+<video width="800" controls>
+  <source src="../videos/open_winner.mp4" type="video/mp4">
 </video>
 </p>
